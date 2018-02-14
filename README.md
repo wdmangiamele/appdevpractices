@@ -4,6 +4,6 @@
 * Andrew Diana
 * Gabe Landau
 * Jason Kirshner
-* Will Mangiamele
+* Will David Mangiamele
 
 
