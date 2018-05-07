@@ -1,0 +1,4 @@
+﻿LIBRARY BTREE
+EXPORTS
+	Insert @1
+	Delete @2

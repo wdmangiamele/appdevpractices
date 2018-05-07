@@ -164,7 +164,7 @@ public class ExampleFileFilter extends FileFilter {
      * Return the extension portion of the file's name .
      *
      * @see #getExtension
-     * @see FileFilter#accept
+     * @see //FileFilter#accept
      */
      public String getExtension(File f) {
 	if(f != null) {

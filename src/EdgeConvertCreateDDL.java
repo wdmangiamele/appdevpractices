@@ -32,7 +32,7 @@ public abstract class EdgeConvertCreateDDL {
       for (int i = 0; i < tables.length; i++) { //step through list of tables
          int numBound = 0; //initialize counter for number of bound tables
          int[] relatedFields = tables[i].getRelatedFieldsArray();
-         for (int j = 0; j < relatedFields.length; j++) { //step through related fields list
+         for(int j = 0; j < relatedFields.length; j++) { //step through related fields list
             if (relatedFields[j] != 0) {
                numBound++; //count the number of non-zero related fields
             }
